@@ -40,7 +40,7 @@
         android:layout_marginTop="@dimen/layout_margin"
         android:text="@string/done"
         android:onClick="clickHandlerFunction"/>
-
+        
 
     <TextView
         android:id="@+id/nickname_text"
@@ -49,8 +49,6 @@
         android:text=""
         android:textAlignment="center"
         android:visibility="gone"
-        android:background="@color/colorAccent"
-        android:paddingBottom="@dimen/small_padding"
         />
 
 
